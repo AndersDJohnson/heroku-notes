@@ -1,6 +1,13 @@
 # heroku-notes
 Heroku notes.
 
+## App
+
+To set app for current repo:
+```
+heroku git:remote -a $APP
+```
+
 ## Node.js
 
 ### devDependencies
